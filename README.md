@@ -29,9 +29,7 @@
         - AveOccup      average house occupancy
         - Latitude      house block latitude
         - Longitude     house block longitude
-    :
+        
 Для 3 лабораторной работы был выбран датасет для бинарной классификации ["Cardiovascular Disease dataset"](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) <-- ссылка на датасет. Набор данных состоит из 70 000 записей данных пациентов, 11 признаков + цель.
 
 Для многоклассовой классификации был выбрал ["WineData"](https://archive.ics.uci.edu/dataset/109/wine) <-- ссылка на описание датасета. Датасет загружал по ["ссылке"](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data) 
-
-    :Missing Attribute Values: None
