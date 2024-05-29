@@ -2,13 +2,13 @@
 
 ## Ионов Артем группа 6131-010402D
 
-### [1. Лабораторная работа](https://github.com/sat4h/AIT/blob/f0725096119d25898c5f0711e5871e6afa59a3e5/LR1Ionov/LR1Ionov.ipynb)
+### [1. Лабораторная работа](https://github.com/sat4h/AIT/blob/a78670aa2191c15e184cec287b3362370bcd48e4/LR1Ionov/6131_IonovA_lab_1_pandas.ipynb)
 
 ### [2. Лабораторная работа]()
 
-### [3. Лабораторная работа](https://github.com/sat4h/AIT/blob/c5f34246629dc39026ce76d643be52862cb6d6ed/LR3Ionov/LR3Ionov.ipynb)
+### [3. Лабораторная работа](https://github.com/sat4h/AIT/blob/a78670aa2191c15e184cec287b3362370bcd48e4/LR3Ionov/6131_IonovA_lab_3_kNN.ipynb)
 
-### [4. Лабораторная работа](https://github.com/sat4h/AIT/blob/6112b55c315b717a0a2afc41eca09f46255f0be7/LR4Ionov/LR4Ionov.ipynb)
+### [4. Лабораторная работа](https://github.com/sat4h/AIT/blob/a78670aa2191c15e184cec287b3362370bcd48e4/LR4Ionov/6131_IonovA_lab_4_tree.ipynb)
 
 ### [5. Лабораторная работа]()
 
