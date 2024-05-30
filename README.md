@@ -4,7 +4,7 @@
 
 ### [1. Лабораторная работа](https://github.com/sat4h/AIT/blob/98c145a148a73b1423144aebe9f0936d091fc45a/LR1Ionov/6131_IonovA_lab_1_pandas.ipynb)
 
-### [2. Лабораторная работа]()
+### [2. Лабораторная работа](https://github.com/sat4h/AIT/blob/a41131e333a37cd725b76d2e22fb268328b68e07/LR2Ionov/6131_IonovA_lab_2_plots.ipynb)
 
 ### [3. Лабораторная работа](https://github.com/sat4h/AIT/blob/98c145a148a73b1423144aebe9f0936d091fc45a/LR3Ionov/6131_IonovA_lab_3_kNN.ipynb)
 
