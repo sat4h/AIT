@@ -1,4 +1,4 @@
-# Технологии ИИ
+# AIT
 
 ## Ионов Артем группа 6131-010402D
 
@@ -12,7 +12,7 @@
 
 ### [5. Лабораторная работа](https://github.com/sat4h/AIT/blob/b1f009827cd006c930dfc552185983b4985b56bb/LR5Ionov/6131_IonovA_lab_5_regression.ipynb)
 
-### [6. Лабораторная работа]()
+### [6. Лабораторная работа](https://github.com/sat4h/AIT/blob/f96c9a4ad9b154ccf5b2d8257ce0ad264d83e682/LR6Ionov/6131_Ionov_lab_6_boosting.ipynb)
 
 Для 1 лабораторной работы был выбран датасет ["Cardiovascular Disease dataset"](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) <-- ссылка на датасет. Набор данных состоит из 70 000 записей данных пациентов, 11 признаков + цель.
 
